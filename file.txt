@@ -1,0 +1,2 @@
+git remote add origin https://hamza-labd3SG@dev.azure.com/hamza-labd3SG/devops-azure/_git/devops-azure
+git push -u origin --all
